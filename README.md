@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yann</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-- 🔭 I’m currently working on a **AI of face recognition**
+- 🔭 I’m currently working on Nexus **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
