@@ -1,5 +1,3 @@
-# Hi 👋, I'm Yann Bucaille
-
 ### Python developer
 
 - 🔭 I'm currently working on **Nexus**
